@@ -328,7 +328,7 @@ const Index = () => (
             <ProjectCard
               title="Pendulum"
               link="https://www.youtube.com/watch?v=oLHTcR06fEo"
-              bg="linear-gradient(to right, #162B82 0%, #6ADE73 100%)"
+              bg="linear-gradient(to right, #111111 0%, #FB4E73 100%)"
             >
               Like to see a pendulum swing? Kinda like our democracy that is
               going to turn into a wrecking ball? sorry. Getting too dark. Enjoy
@@ -337,7 +337,7 @@ const Index = () => (
             <ProjectCard
               title="Machine Learning"
               link="https://confirm.udacity.com/2TJU5GK"
-              bg="linear-gradient(to right, #812D81 0%, #BADE73 100%)"
+              bg="linear-gradient(to right, #162B82 0%, #6ADE73 100%)"
             >
               Let's put some brains into your project!
             </ProjectCard>
